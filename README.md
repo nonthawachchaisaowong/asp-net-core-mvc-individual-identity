@@ -1,1 +1,4 @@
-# asp-net-core-mvc-individual-identity
+Download and update database connection string by using this console command
+```
+Update-Database
+```
